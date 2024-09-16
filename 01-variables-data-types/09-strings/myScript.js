@@ -38,5 +38,5 @@ const greeting = 'Hello World';
 // removeSpace(greeting);
 // // console.log(newGreeting)
 
-x = greeting;
+// x = greeting;
 console.log(x)
