@@ -8,3 +8,5 @@ const capitalizeFirstLetter = (string) => {
 }
 
 capitalizeFirstLetter(myString);
+
+// testing github contributions
